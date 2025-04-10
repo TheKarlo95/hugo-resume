@@ -1,0 +1,66 @@
+[
+  {
+      "grouping":"Programming Languages",
+      "skills":[ 
+        {"name":"Java","icon":"java","link":"https://www.java.com/"},
+        {"name":"Kotlin","icon":"kotlin","link":"https://kotlinlang.org/"},
+        {"name":"JavaScript","icon":"javascript","link":"https://developer.mozilla.org/en-US/docs/Web/JavaScript"},
+        {"name":"bash","icon":"bash","link":"https://www.gnu.org/software/bash/"}
+      ]
+  },
+  {
+      "grouping":"Android",
+      "skills":[
+        {"name":"JetPack Compose","icon":"jetpackcompose","link":"https://developer.android.com/compose"},
+        {"name":"Coroutines & Flow","icon":"kotlin","link":"https://kotlinlang.org/docs/coroutines-overview.html"},
+        {"name":"Kotlin Multiplatform","icon":"kotlin","link":"https://kotlinlang.org/docs/multiplatform.html"},
+        {"name":"MVVM","link":"https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel"},
+        {"name":"Clean architecture","link":"https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html"},
+        {"name":"REST API integration","icon":"openapi","link":"https://en.wikipedia.org/wiki/REST"},
+        {"name":"GraphQL API integration","icon":"graphql","link":"https://graphql.org/"},
+        {"name":"Firebase","icon":"firebase","link":"https://firebase.google.com/"},
+        {"name":"Decompose architecture","link":"https://arkivanov.github.io/Decompose/"}
+    ]
+  },
+  {
+      "grouping":"DevOps & CI/CD",
+      "skills":[
+        {"name":"git","icon":"git","link":""},
+        {"name":"GitHub","icon":"github","link":"https://github.com/"},
+        {"name":"GitLab","icon":"gitlab","link":"https://gitlab.com/"},
+        {"name":"Gradle","icon":"gradle","link":"https://gradle.org/"},
+        {"name":"Play Store Deployment","icon":"android","link":"https://play.google.com"},
+        {"name":"GitHub Actions","icon":"githubactions","link":"https://github.com/features/actions"},
+        {"name":"CircleCI","icon":"circleci","link":"https://circleci.com/"}
+      ]
+  },
+  {
+      "grouping":"Soft Skills",
+      "skills":[ 
+        {"name":"Agile/Scrum","link":"https://www.scrum.org/resources/what-scrum-module"},
+        {"name":"Problem-solving"},
+        {"name":"Teamwork"},
+        {"name":"Mentorship"},
+        {"name":"Giving presentions"}
+      ]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name":"Oracle","icon":"database"},
+        "MongoDB",
+        {"name":"Apache Spark"}
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          {"name":"BOSH","link":"https://bosh.io"},
+          {"name":"Docker","link":"https://docker.com"},
+          {"name":"AWS","link":"https://aws.amazon.com"},
+          {"name":"Google Cloud","link":"https://cloud.google.com"},
+          {"name":"Linux","link":"https://bosh.io"}
+      ]
+  }
+]

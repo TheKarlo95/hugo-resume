@@ -1,0 +1,44 @@
+[
+    {
+        "role":"Senior Android Developer (Fulltime)",
+        "company":"[Elevien](https://www.elevien.com/)",
+        "summary":"Elevien is a company creating a solution that lets you organize a gymanstics competition of any size and have judges score it from anywhere. As an Android developer I was developing, planning and contributing to the whole process troughout but mostly developing Kotlin Multiplatform app that uses best practices and AppSync to provide users with great experience and keeps their app up-to-date at all times.",
+        "range":"March 2024 - September 2024"
+    },
+    {
+        "role":"Senior Android Developer (Fulltime)",
+        "company":"[Cinnamon](https://www.cinnamon.agency/)",
+        "summary":"Working in a digital agency on a BLE-powered Android app. Development of new feature, maintenance of the app and close collaboration with other team members to ensure that the app meets user needs and integrates seamlessly with the rest of the system was only a few of my responsibilities.",
+        "range":"March 2024 - March 2024"
+    },
+    {
+        "role":"Senior Android Developer (Fulltime)",
+        "company":"[Azikus](https://www.azikus.com/)",
+        "summary":"Develop, plan, and collaborate closely with stakeholders to create mobile apps and improve the development process. Mentor and educate colleagues.",
+        "range":"July 2020 - March 2023"
+    },
+    {
+        "role":"Freelance Android Developer (Freelance)",
+        "company":"[OpenDynamic](https://www.opendynamic.de/)",
+        "summary":"Planning, designing and development of a mobile ERP Android application for warehouse order scanning and tracking on a part-time freelance basis.",
+        "range":"September 2019 - July 2020"
+    },
+    {
+        "role":"Android Developer (Student contract)",
+        "company":"[Undabot](https://undabot.com/)",
+        "summary":"Developing Android apps like the A1 mobile app, the FOREO online shopping app, and many others. Also developing a standalone messenger library for quick chat/messaging integration in other apps.",
+        "range":"September 2018 - December 2019"
+    },
+    {
+        "role":"Android Developer (Student contract)",
+        "company":"[Combis](https://combis.hr/)",
+        "summary":"Cross-platform mobile app development with Ionic, Cordova, and Angular, and native Android app development with Kotlin. Also, minor Java back-end development with the Struts framework.",
+        "range":"May 2017 - September 2018"
+    },
+    {
+        "role":"Android Developer (Student contract)",
+        "company":"[Asseco SEE](https://see.asseco.com/)",
+        "summary":"Android development for Unicredit bank, including feature development and bug fixing in Java, with multiple modules, flavors, and libraries for various features like scanning.",
+        "range":"January 2017 - April 2017"
+    }
+]

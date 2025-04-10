@@ -1,0 +1,20 @@
+[
+    {
+        "school":"[University of Zagreb, Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/)",
+        "degree":"Bachelor of Science",
+        "notes":"The University of Zagreb Faculty of Electrical Engineering and Computing (FER) is the largest technical faculty in Croatia and the leading educational and research institution in the fields of electrical engineering, computing, and information and communication technology. It offers undergraduate, graduate, and doctoral programs in a wide range of disciplines.",
+        "range":"2018 - 2020"
+    },
+    {
+        "school":"[University of Zagreb, Faculty of Electrical Engineering and Computing](https://www.fer.unizg.hr/)",
+        "degree":"Associate of Applied Science",
+        "notes":"The University of Zagreb Faculty of Electrical Engineering and Computing (FER) is the largest technical faculty in Croatia and the leading educational and research institution in the fields of electrical engineering, computing, and information and communication technology. It offers undergraduate, graduate, and doctoral programs in a wide range of disciplines.",
+        "range":"2013 - 2018"
+    },
+    {
+        "school":"[Technical School Ruđer Bošković](https://www.tsrb.hr/)",
+        "degree":"Computer technician",
+        "notes":"Technical school Ruđer Bošković is a technical school in Zagreb, Croatia. It was founded in 1948 and is one of the oldest and most prestigious technical schools in the country. The school offers a variety of programs in electrical engineering, computer science, and other technical fields.",
+        "range":"2009 - 2013"
+    }
+]

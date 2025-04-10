@@ -1,0 +1,46 @@
+title = "Karlo Vrbić"
+baseURL = "https://example.com/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Zagreb, Croatia"
+email = "vrbic.karlo@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Karlo"
+lastName = "Vrbić"
+phone = "+385958569156"
+profileImage = "img/profile-image.jpg"
+showQr = true
+showContact = true
+showSocializations = true
+sections = ["skills","creations","experience","education","blog"]
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/karlo-vrbic/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/TheKarlo95/"
+
+[[params.handles]]
+    link = "https://stackoverflow.com/users/6619676/thekarlo95"
+    name = "Stack Overflow"
+    icon = "stack-overflow"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
